@@ -1,3 +1,4 @@
+https://docs.google.com/document/d/1kU0twXWKruteW3LrbWm-pnu4bS8HBMAiv3FEmvM78-o/edit?usp=sharing
 # practice-problem
 Problem
 As the football coach at your local school, you have been tasked with picking a team of exactly P students to represent your school. There are N students for you to pick from. The i-th student has a skill rating Si, which is a positive integer indicating how skilled they are.
